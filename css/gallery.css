@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main-container {
+width:1000px;
+height:auto;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+#mainhead {
+width:1000px;
+height:147px;
+clear:both;
+}
+
+#navigation {
+width:940px;
+height:35px;
+margin-top:25px;
+margin-right:60px;
+}
+
+#gallery-image {
+width:860px;
+height:410px;
+clear:both;
+background-image:url(../images/gallery_bk.jpg);
+background-repeat:no-repeat;
+margin-top:20px;
+margin-left:45px;
+border:thin solid #3362b4;
+border-top-left-radius:30px;
+border-top-right-radius:30px;
+border-bottom-left-radius:30px;
+border-bottom-right-radius:30px;
+
+}
+
+
+
+#apsaralogo {
+width:145px;
+height:145px;
+background-color:#FFFFFF;
+border-top-left-radius:200px;
+border-top-right-radius:200px;
+border-bottom-left-radius:200px;
+border-bottom-right-radius:200px;
+position: absolute;
+margin-top:-512px;
+margin-left:100px;
+}
+
+
+#gallerywrap {
+	width:860px;
+	height:800px;
+	clear:both;
+	margin-left:45px;
+	margin-top:20px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	color:#333;
+	text-align:justify;
+}
+
+
+
+#gallery {
+	width:auto;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px 5px 5px 5px;
+
+}
+
+.photo-border {
+	border:3px solid #CCC;
+	margin: 5px 5px 5px 5px;
+	float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bottom-navigation {
+width:500px;
+height:20px;
+margin-left:130px;
+margin-top:20px;
+float:left;
+}
+
+#social {
+width:50 px;
+height:20px;
+margin-top:20px;
+float:right;
+margin-right:97px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer-image {
+width:1000px;
+height:0px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.footer-logo {
+position:absolute;
+margin-left:-700px;
+margin-top:-48px;
+}
+
+
+
+
+

@@ -1,0 +1,272 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main-container {
+width:1000px;
+height:1100px;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+#mainhead {
+width:1000px;
+height:147px;
+clear:both;
+}
+
+#navigation {
+width:940px;
+height:35px;
+margin-top:25px;
+margin-right:60px;
+}
+
+#contact-image {
+width:860px;
+height:410px;
+clear:both;
+background-image:url(../images/contactus.jpg);
+background-repeat:no-repeat;
+margin-top:20px;
+margin-left:45px;
+border:thin solid #3362b4;
+border-top-left-radius:30px;
+border-top-right-radius:30px;
+border-bottom-left-radius:30px;
+border-bottom-right-radius:30px;
+
+-webkit-box-shadow: inset -7px 7px 20px 0px rgba(81,97,128,1);
+-moz-box-shadow: inset -7px 7px 20px 0px rgba(81,97,128,1);
+box-shadow: inset -7px 7px 20px 0px rgba(81,97,128,1);
+
+}
+
+
+
+#apsaralogo {
+width:145px;
+height:145px;
+background-color:#FFFFFF;
+border-top-left-radius:200px;
+border-top-right-radius:200px;
+border-bottom-left-radius:200px;
+border-bottom-right-radius:200px;
+position: absolute;
+margin-top:-512px;
+margin-left:100px;
+}
+
+
+#contactwrap {
+	width:860px;
+	height:435px;
+	margin-left:45px;
+	margin-top:30px;
+}
+
+#contact-add {
+	width:400px;
+	height:auto;
+	float:left;
+	font-family:'Roboto Condensed', sans-serif;
+}
+
+
+#feedback {
+	width:335px;
+	height:auto;
+	float:right;
+	padding: 10px 5px 10px 10px;
+	margin-right:5px;
+	
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: thin solid #afb9cd;
+	
+}
+
+#Name, #email, #cell, #address {
+	width:210px;
+	height:25px;
+	border:hidden;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border:thin solid #666;
+	padding:2px 2px 2px 5px;
+	font-family:'Roboto Condensed', sans-serif; 
+	font-size:15px;
+	text-align:left;
+	background-color:#d4dced;
+	color:#000;
+	margin:0px 0px 5px 0px;
+	text-transform:uppercase;
+}
+
+
+
+#email {
+	width:210px;
+	height:25px;
+	border:hidden;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border:thin solid #666;
+	padding:2px 2px 2px 5px;
+	font-family:'Roboto Condensed', sans-serif; 
+	font-size:15px;
+	text-align:left;
+	background-color:#d4dced;
+	color:#000;
+	margin:0px 0px 5px 0px;
+	text-transform:lowercase;
+}
+
+
+#cell {
+	width:210px;
+	height:25px;
+	border:hidden;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border:thin solid #666;
+	padding:2px 2px 2px 5px;
+	font-family:'Roboto Condensed', sans-serif; 
+	font-size:15px;
+	text-align:left;
+	background-color:#d4dced;
+	color:#000;
+	margin:0px 0px 5px 0px;
+	
+}
+
+
+#comments {
+	width:210px;
+	height:200px;
+	border:hidden;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border:thin solid #666;
+	padding:2px 2px 2px 5px;
+	font-family:'Roboto Condensed', sans-serif; 
+	font-size:15px;
+	text-align:left;
+	background-color:#d4dced;
+	color:#000;
+	margin:0px 0px 5px 0px;
+	max-width:210px;
+	max-height:200px;
+	min-height:200px;
+	min-width:210px;
+	
+}
+
+#submit {
+	width:70px;
+	height:30px;
+	border:hidden;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border:thin solid #666;
+	padding:2px 2px 2px 5px;
+	font-family:'Roboto Condensed', sans-serif; 
+	font-size:15px;
+	text-align:center;
+	background-color: #333;
+	
+	background-image:url(../images/send_button.jpg);
+	background-repeat:repeat-x;
+	color:#CCC;
+	margin:0px 75px 5px 0px;
+
+}
+
+
+#reset {
+	width:70px;
+	height:30px;
+	border:hidden;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border:thin solid #666;
+	padding:2px 2px 2px 5px;
+	font-family:'Roboto Condensed', sans-serif; 
+	font-size:15px;
+	text-align:center;
+	background-color: #333;
+	background-image:url(../images/send_button.jpg);
+	background-repeat:repeat-x;
+	color:#CCC;
+	margin:0px 0px 5px 0px;
+
+}
+
+
+
+
+
+
+
+
+
+#bottom-navigation {
+width:500px;
+height:20px;
+margin-left:130px;
+margin-top:20px;
+float:left;
+}
+
+#social {
+width:50 px;
+height:20px;
+margin-top:20px;
+float:right;
+margin-right:97px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer-image {
+width:1000px;
+height:0px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.footer-logo {
+position:absolute;
+margin-left:-70px;
+margin-top:-37px;
+}
+
+
+
+
+

@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main-container {
+width:1000px;
+height:1300px;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+#mainhead {
+width:1000px;
+height:147px;
+clear:both;
+}
+
+#navigation {
+width:940px;
+height:35px;
+margin-top:25px;
+margin-right:60px;
+}
+
+#slides {
+width:860px;
+height:440px;
+clear:both;
+background-image:url(../images/slide.jpg);
+margin-top:20px;
+margin-left:45px;
+border-top-left-radius:30px;
+border-top-right-radius:30px;
+border-bottom-left-radius:30px;
+border-bottom-right-radius:30px;
+padding-left:40px;
+padding-top:80px;
+}
+
+#inner-slides {
+width:350px;
+height:350px;
+background-color:#FFFFFF;
+border:thin solid  #FFFFFF;
+border-top-left-radius:200px;
+border-top-right-radius:200px;
+border-bottom-left-radius:200px;
+border-bottom-right-radius:200px;
+}
+
+
+#apsaralogo {
+width:145px;
+height:145px;
+background-color:#FFFFFF;
+border-top-left-radius:200px;
+border-top-right-radius:200px;
+border-bottom-left-radius:200px;
+border-bottom-right-radius:200px;
+position:absolute;
+margin-top:-620px;
+margin-left:100px;
+}
+
+
+#bottom-scrolling {
+width:880px;
+height:220px;
+margin-left:auto;
+margin-right:auto;
+clear:both;
+margin-top:20px;
+}
+
+.image-border-roundup {
+margin:5px 5px 5px 5px;
+border-top-left-radius:15px;
+border-top-right-radius:15px;
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+}
+
+
+.image-righ-wrap {
+float:right;
+margin-left:5px;
+
+}
+
+.image-padding-left{
+padding-left:20px;
+}
+
+
+
+
+
+
+
+#bottom-content {
+width:850px;
+height:260px;
+clear:both;
+margin-top:20px;
+margin-left:auto;
+margin-right:auto;
+}
+#bottom-navigation {
+width:500px;
+height:20px;
+margin-left:160px;
+margin-top:0px;
+float:left;
+}
+
+#social {
+width:120 px;
+height:20px;
+float:right;
+padding-right:60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer-image {
+width:1000px;
+height:0px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.footer-logo {
+position:absolute;
+margin-left:-50px;
+margin-top:-100px;
+}
